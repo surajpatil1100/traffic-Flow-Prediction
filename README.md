@@ -3,24 +3,24 @@
 
 # Traffic Flow Prediction for Urban Planning
 
-* Project Overview
+## Project Overview
 This project aims to predict traffic flow patterns in urban areas to aid in decision-making for city planning. By analyzing traffic data, the model identifies congestion hotspots, optimizes routes, and suggests improvements to infrastructure, reducing average travel times by 20%.
 
-* Project Goals
+## Project Goals
 - Predict traffic flow in real-time.
 - Identify congestion patterns and provide actionable insights.
 - Optimize routes to enhance urban planning and reduce travel times.
 
-* Technologies Used
-- Python: Core programming language
-- Pandas: Data manipulation
-- Scikit-Learn: Machine learning models
-- Keras/TensorFlow: Deep learning models
+## Technologies Used
+- **Python**: Core programming language
+- **Pandas**: Data manipulation
+- **Scikit-Learn**: Machine learning models
+- **Keras/TensorFlow**: Deep learning models
 
-* Dataset
+## Dataset
 The dataset includes anonymized traffic flow data for various urban zones over a 12-month period, capturing peak and non-peak hours.
 
-* Installation and Usage
+## Installation and Usage
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/traffic-flow-prediction.git
@@ -35,12 +35,12 @@ The dataset includes anonymized traffic flow data for various urban zones over a
    python src/model.py
    ```
 
-* Results
+## Results
 - Reduced travel times by 20% on average.
 - Decreased congestion hotspots by 10%.
 - Increased road capacity by 15%.
 
-* Future Work
+## Future Work
 - Incorporate weather and seasonal patterns into traffic predictions.
 - Implement real-time data feeds for adaptive learning.
 
@@ -49,4 +49,6 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 Special thanks to the collaborating urban planning departments and contributors.
+
+
 
